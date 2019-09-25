@@ -99,7 +99,7 @@ Path to Production + ADR + Wiki
 
 相关资源：
 
- - 《[迈向 Tech Lead 之路 (https://www.phodal.com/blog/path-to-tech-lead/)](https://www.phodal.com/blog/path-to-tech-lead/)》
+ - 《[迈向 Tech Lead 之路](https://www.phodal.com/blog/path-to-tech-lead/)》
 
 ## 结论
 
