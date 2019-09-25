@@ -56,6 +56,7 @@
 
 相关资源：
 
+ - 《[如何用测试驱动出100%测试覆盖率的代码](https://www.phodal.com/blog/use-tdd-drive-100-percent-test-coverage/)》
  - 《[【架构拾集】——移动应用的自动化测试（BDD 方式）](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652976100&idx=1&sn=748bc637621781fcb7d2ddb7e69bb722&chksm=bd4ae0c78a3d69d12f523cf57d636eefabdc0ae8def2c943df3533036ac397f0d9ebbc2d86fc&token=2048156466&lang=zh_CN#rd)》
  - 《[哪个才是最适合你的 Web UI 自动化测试框架](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652975411&idx=1&sn=112197e48b560280813f09a534db3420&chksm=bd4ae2108a3d6b068099f230f775571d0760efae10261e16a818ee251a76f3c5666fd5880bc3&scene=21#wechat_redirect)》
  - 《[如何提升 Web 应用的代码质量](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652975940&idx=1&sn=434fdeafef4fbee7047a3dfae7f8dee9&chksm=bd4ae0678a3d6971cf992fdfd2125a11a7f5f7d80d5bfabf529a7ba545e9a74550bffb11807a&token=2048156466&lang=zh_CN#rd)》
@@ -100,6 +101,16 @@ Path to Production + ADR + Wiki
 相关资源：
 
  - 《[迈向 Tech Lead 之路](https://www.phodal.com/blog/path-to-tech-lead/)》
+ 
+## 其它
+
+### 如何启动项目
+
+相关资源：
+
+ - [新项目检查清单](https://www.phodal.com/blog/new-project-check-lists/)
+ - [如何创建你的应用脚手架](https://www.phodal.com/blog/how-to-create-application-boilerplate/)
+
 
 ## 结论
 
