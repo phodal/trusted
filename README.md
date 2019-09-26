@@ -111,6 +111,12 @@ Path to Production + ADR + Wiki
  - [新项目检查清单](https://www.phodal.com/blog/new-project-check-lists/)
  - [如何创建你的应用脚手架](https://www.phodal.com/blog/how-to-create-application-boilerplate/)
 
+启动项目时：《[项目初期的最优技术实践](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652976082&idx=1&sn=1a57aa3d263db6957f5fa27dbd7eca09&chksm=bd4ae0f18a3d69e7cd9ef0da98e5f6de13d11842ce01b69e04ed0e0879d71400aef69d432454&token=2048156466&lang=zh_CN#rd)》
+
+重写型 Web 应用：
+
+《[为什么所有的 Web 应用都将被重写？——Web 应用的生命周期](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652975047&idx=1&sn=299db45c768c03851d7bd4769a80fd42&chksm=bd4afce48a3d75f293a5f040e0a411ba8e1a0b0b96194cd14ea2be2fc89dc19fc183f5715503&token=2048156466&lang=zh_CN#rd)》
+
 
 ## 结论
 
