@@ -430,6 +430,16 @@ domain
 
 ### 9.0 技术债务头脑风暴
 
+技术债产生的主要原因：进度压力、缺乏纪律，以及过度专注短期利益——《精益软件度量：实践者的观察与思考》。
+
+综合技术债 = （10% 轻微问题数 + 25% 普通问题数 + 50% 严重问题数）* 平均修复时间（小时） * 成本 / 小时。
+
+原始公式来源：https://www.castsoftware.com/discover-cast/press-releases/docs/press-releases/new-worldwide-software-quality-study-from-cast-exposes-millions-in-hidden-it-costs
+
+> Technical Debt = (10% of Low Severity Violations + 25%
+of Medium Severity Violations + 50% of High Severity
+Violations)*No. of Hours to Fix*Cost/Hr.
+
 是的，进行一场技术债务相关的头脑风暴，能让我们明确列出大部分的技术债务。
 
 这些常见的技术债有：前期设计不足、业务压力导致的快速发布、延迟的重构、过度耦合的组件、缺乏文档、缺少测试等等。
@@ -455,6 +465,14 @@ domain
 一旦技术债务越来越多，真正的行动也就势在必行。毕竟『安有巢毁，而卵不破乎』。
 
 陷阱 13 ： 业务完全让位于技术。技术需要用于证明业务价值——除非，系统真的不得不重写，我们才有必要完全铺在技术重构上。否则，我们应该平衡技术与业务，然后做出适当的妥协。
+
+### 工具与资源
+
+Checkstyles 工具
+
+静态检查工具：PMD、FindBugs、JLint、ESC/Java
+
+质量工具：Sonarqube
 
 ## 10. 强有力的个人 & 愿意改进的团队
 
